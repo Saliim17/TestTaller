@@ -1,6 +1,6 @@
 @echo off
 ECHO Este es mi primer script
-ECHO Quieres una taza de chocolate?
+ECHO Quieres una taza de te y chocola?
 ECHO Pulsa S para Si
 ECHO Pulsa N para No
 CHOICE /c SN /m "Si o No"
