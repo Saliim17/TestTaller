@@ -5,4 +5,6 @@ ECHO Pulsa S para Si
 ECHO Pulsa N para No
 CHOICE /c SN /m "Si o No"
 ECHO Hace calor y tengo el corona
+CLS
+ECHO He limpiado la pantalla con lejia YUPI
 PAUSE 
